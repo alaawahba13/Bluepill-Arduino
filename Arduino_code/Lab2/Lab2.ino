@@ -15,7 +15,6 @@ void setup() {
   Serial.begin(9600);
   SPI.begin(); // Init SPI bus
   rfid.PCD_Init(); // Init MFRC522
-  delay(50);
 }
 
 void loop() {
@@ -36,7 +35,6 @@ void loop() {
   }
   for (int i = 0; i <rfid.uid.size*2 ; i++) { // *2 since byte 0x01 is sent as '0' '1' 
     Serial.print(ID_str[i]);
-    delay(50);
   }
   ID_str = "";
   // Halt PICC
