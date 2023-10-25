@@ -1,0 +1,2 @@
+NVIC.c:23:6:NVIC_Enable	16	static
+NVIC.c:39:6:NVIC_Disable	16	static
