@@ -46,8 +46,10 @@ https://github.com/alaawahba13/Bluepill-Arduino/assets/101985923/e3803855-33b0-4
   - [Simulation](https://github.com/alaawahba13/Bluepill-Arduino/tree/main/Simulation)
     
 ## Circuit Diagram 
+![circuitdigram](https://github.com/Gehad799/Bluepill-Arduino/assets/125475192/f330320f-4896-491a-bf24-1f2133fc7293)
 
 ## Documentation 
+[Uploading Report.pdf…]()
 
 ## Authors
 
