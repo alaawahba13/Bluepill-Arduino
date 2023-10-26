@@ -46,8 +46,10 @@ https://github.com/alaawahba13/Bluepill-Arduino/assets/101985923/e3803855-33b0-4
   - [Simulation](https://github.com/alaawahba13/Bluepill-Arduino/tree/main/Simulation)
     
 ## Circuit Diagram 
+![Fritzing_Wiring_Diagram](https://github.com/Gehad799/Bluepill-Arduino/assets/125475192/87b107d9-cf63-4332-9e7b-c2ec9edc8e2b)
 
 ## Documentation 
+[Report.pdf](https://github.com/Gehad799/Bluepill-Arduino/files/13183076/Report.pdf)
 
 ## Authors
 
