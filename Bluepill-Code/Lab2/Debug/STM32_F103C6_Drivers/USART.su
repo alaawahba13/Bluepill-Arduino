@@ -1,9 +1,0 @@
-USART.c:38:6:USART_init	32	static
-USART.c:98:6:USART_DeInit	16	static
-USART.c:121:6:USART_SetPins	24	static
-USART.c:216:6:USART_Send	32	static
-USART.c:240:6:USART_Recieve	32	static
-USART.c:283:6:USART_Wait_TC	16	static
-USART.c:294:6:USART1_IRQHandler	8	static
-USART.c:297:6:USART2_IRQHandler	8	static
-USART.c:300:6:USART3_IRQHandler	8	static
