@@ -6,8 +6,6 @@
 
 MFRC522 rfid(SS_PIN, RST_PIN); // Instance of the class
 
-MFRC522::MIFARE_Key key;
-
 
 String ID_str = "";
 
